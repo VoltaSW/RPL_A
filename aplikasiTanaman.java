@@ -1,4 +1,15 @@
-// Aplikasi Tanaman
+/*
+Aplikasi Tanaman
+
+Kelompok 19
+	Anggota:
+	1. AHMAD CHOIRUL 1402017157
+	2. MUHAMMAD RANDI 1402017105
+	3. MUHAMMAD SHILNI SIDQAN 1402017182
+	4. RIZKI DWI ANANDA 1402017134
+	5. RIZKY MEIDIANTO 1402017136
+*/
+
 import java.util.Scanner;
 
 public class aplikasiTanaman{
